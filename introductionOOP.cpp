@@ -12,3 +12,8 @@ void printData(){
     cout << "Nama : " << nama << endl;
     cout << "Nilai : " << nilai << endl;
 }
+}; //batas class
+
+int main(){
+    mahasiswa mhs;//object
+    
